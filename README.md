@@ -1,9 +1,8 @@
 # Hello, I'm Diego
 <a href="https://www.linkedin.com/in/diego-b-cotrina-mendez-9b082366/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Detail-oriented finance operations professional with over three years of experience at leading global banks, skilled in managing risk, ensuring process accuracy, and maintaining data integrity. Currently pursuing the Google Cybersecurity Certificate, I am building expertise in threat detection, incident response, and security controls. I bring a strong commitment to safeguarding information and a proven ability to operate in high-stakes environments, enabling me to support organizations in strengthening their security posture and protecting critical assets.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
